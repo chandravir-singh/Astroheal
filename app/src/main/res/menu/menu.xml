@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listener"
+        android:icon="@drawable/listener"
+        android:title="Listener"/>
+
+    <item
+        android:id="@+id/astrologer"
+        android:icon="@drawable/astrologer"
+        android:title="Astrologer"/>
+
+
+
+    <item
+        android:id="@+id/inbox"
+        android:icon="@drawable/inbox"
+        android:title="Inbox"/>
+
+
+</menu>
